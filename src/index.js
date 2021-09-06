@@ -1,0 +1,1 @@
+alert("This is the first js file to add in the git")
